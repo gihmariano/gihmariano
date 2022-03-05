@@ -6,7 +6,7 @@
 Here are some ideas to get you started:
 
 - 💜 Amo tecnologia
--💻 Atualmente estudando Clojure, Eliixir e Kafka
+-💻 Atualmente estudando Clojure, Elixir e Kafka
 - 💘 Apaixonando por Back-end
 - 🎮 amo games
 - 😄 Curiosidades: Amo culinária! Tenho ateliê de doces!
