@@ -1,19 +1,15 @@
 ### Hi there 👋
 
 <!--
-**gihmariano/gihmariano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**gihmariano/gihmariano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-🐳 Docker lover
--->
+- 💜 Amo tecnologia
+-💻 Atualmente estudando Clojure, Eliixir e Kafka
+- 💘 Apaixonando por Back-end
+- 🎮 amo games
+- 😄 Curiosidades: Amo culinária! Tenho ateliê de doces!
+- 
 !https://www.codetriage.com/cjdelisle/cjdns/badges/users.svg!:https://www.codetriage.com/cjdelisle/cjdns
 !https://www.codetriage.com/docker/docker/badges/users.svg!:https://www.codetriage.com/docker/docker  🐳
