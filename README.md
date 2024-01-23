@@ -5,8 +5,8 @@
 
 
 - 💜 Amo tecnologia
-- 💻 Atualmente estudando Clojure, Elixir e Kafka
-- 💘 Apaixonada por Hacking
+- 💻 Atualmente estudando Python, Pentest, Shell, Hardware Hacking e etc
+- 💘 Apaixonada por Linux e competições de CTFs
 - 🎮 amo games
 - 😄 Curiosidades: Amo culinária! Tenho ateliê de doces!
 
