@@ -6,7 +6,7 @@
 
 - 💜 Amo tecnologia
 - 💻 Atualmente estudando Clojure, Elixir e Kafka
-- 💘 Apaixonando por Back-end
+- 💘 Apaixonada por Hacking
 - 🎮 amo games
 - 😄 Curiosidades: Amo culinária! Tenho ateliê de doces!
 
