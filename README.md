@@ -10,5 +10,4 @@
 - 🎮 amo games
 - 😄 Curiosidades: Amo culinária! Tenho ateliê de doces!
 
-!https://www.codetriage.com/cjdelisle/cjdns/badges/users.svg!:https://www.codetriage.com/cjdelisle/cjdns
-!https://www.codetriage.com/docker/docker/badges/users.svg!:https://www.codetriage.com/docker/docker  🐳
+
