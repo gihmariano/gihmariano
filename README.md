@@ -8,6 +8,6 @@
 - 💻 Atualmente estudando Python, Pentest, Shell, Hardware Hacking e etc
 - 💘 Apaixonada por Linux e competições de CTFs
 - 🎮 amo games
-- 😄 Curiosidades: Amo culinária! Tenho ateliê de doces!
+- 😄 Curiosidades: Adoro ser "chef" de vez em quando! Tenho ateliê de doces!
 
 
